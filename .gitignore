@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+Demo.xcodeproj/project.xcworkspace/xcuserdata/
+Demo.xcodeproj/xcuserdata/
+
+# The README states Package.resolved is not committed, so that stays an enforced
+# property rather than a fact that lasts until someone opens the project in Xcode.
+Demo.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
